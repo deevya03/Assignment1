@@ -1,0 +1,4 @@
+Hello everyone!
+My name is Divya Panthi. I am currently pursuing my bachelors degree from Islington college. I live in Bhaktapur, Nepal.
+
+I am very glad to attend this three days git and github class provided by 'Genese Cloud Academy'. I learnt many things, thank you!
